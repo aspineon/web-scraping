@@ -15,7 +15,7 @@ Simple examples for Python web scraping
 1. Load the JSON data into a Pandas Dataframe
 1. Scrape the Data on a webpage into a Pandas DataFrame
 
-[Solution](Solution.ipynb)
+[Solution To Full Dataset Challenges](https://github.com/mafudge/web-scraping/blob/master/Solution.ipynb)
 
 ### Python list of unique departments only
 
