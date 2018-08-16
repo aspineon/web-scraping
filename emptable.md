@@ -1,4 +1,6 @@
 # Fudgemart Employee Listing
+
+
 | Name  |  Email | Department |  
 | ------------- | ------------- | ------------- |
 | Barb Barion  | [bbarion@fudgemart.com](mailto:bbarion@fudgemart.com)  | Customer Service |
