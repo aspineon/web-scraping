@@ -1,6 +1,10 @@
 # web-scraping
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+Simple examples for Python web scraping
+
+[Data In a Table](emptable.md)
+
+[Data In JSON format](empjson.json)
+
+[Data on a Webpage](empweb.md)
