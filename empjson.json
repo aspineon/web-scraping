@@ -1,0 +1,32 @@
+[
+    {
+        "Name" : "Barb Barion",
+        "Email" : "bbarion@fudgemart.com",
+        "Department" : "Customer Service"
+    },
+    {
+        "Name" : "Al Fresco",
+        "Email" : "afresco@fudgemart.com",
+        "Department" : "Housewares"
+    },
+    {
+        "Name" : "Bob Enweave",
+        "Email" : "benweave@fudgemart.com",
+        "Department" : "Housewares"
+    },
+    {
+        "Name" : "Carrie Dababbi",
+        "Email" : "cdababbi@fudgemart.com",
+        "Department" : "Electronics"
+    },
+    {
+        "Name" : "Rowan Debote",
+        "Email" : "rdebote@fudgemart.com",
+        "Department" : "Customer Service"
+    },
+    {
+        "Name" : "Sandi Shores",
+        "Email" : "sshores@fudgemart.com",
+        "Department" : "Customer Service"
+    }
+]
